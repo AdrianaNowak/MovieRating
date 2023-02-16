@@ -10,4 +10,4 @@ The input for searching for a movie has autocomplete, whenever a user types some
 
 ## Usage
 
-open index.html file in your browser.
+Open index.html file in your browser.
